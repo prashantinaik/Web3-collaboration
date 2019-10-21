@@ -19,9 +19,12 @@ The objective of this project is to produce specifications for enabling Haskell 
 **Adoption**: Smart contracts written in functional programming languages are adopted by several blockchain projects today. This grant will make Substrate blockchains more compelling to application developers and grow the functional smart contract ecosystem. Examples of other projects with functional smart contract languages are:
   * Cardano: Cardano smart contracts are written in Plutus, a strictly typed pure functional language, that is embedded in Haskell.
   * Kadena: Kadena uses Pact as a smart-contract language. The interpreter of Pact is built in Haskell. Obsidian has been collaborating with Kadena for building an Integrated Development Environment (IDE) for writing smart contracts.
-  * Tezos: Tezos is implemented in OCaml and its smart contracts are written in Michelson, both functional programming languages. Obsidian has been collaborating with Tezos to help secure, decentralize, and grow the network.
-**Future-Proofing**: As smart contracts and their applications inevitably grow bigger and more complex over time, Haskell is a great tool for implementing and managing that complexity without creating unintended consequences.
-**Talent**: This project will expose Polkadot to a pool of functional smart contract developers.
+  * Tezos: Tezos is implemented in OCaml and its smart contracts are written in Michelson, both functional programming languages. Obsidian has been collaborating with Tezos to help secure, decentralize, and grow the network.  
+  
+**Future-Proofing**: As smart contracts and their applications inevitably grow bigger and more complex over time, Haskell is a great tool for implementing and managing that complexity without creating unintended consequences.  
+
+**Talent**: This project will expose Polkadot to a pool of functional smart contract developers.  
+
 **Ecosystem and Tooling Growth**: This project will also help identify more collaboration opportunities outside this initial scope such as an IDE for writing Haskell smart contracts.
 
 ### Integration with Substrate and Polkadot
@@ -49,8 +52,9 @@ Our office address is 19 W 21st St, Suite 503, New York, NY 1001
 ## Team's experience
 **Tezos**: Tezos is a blockchain with on-chain governance which is written in OCaml and supports formal verification of smart contracts. Tezos and its smart contract language Michelson are both functional programming languages which facilitate formal verification.
   * Ledger: The "Tezos Wallet" application is for making XTZ transactions, originating contracts, delegation, and voting. It supports all functionalities to use the Ledger Nano S/X for Tezos besides baking. The “Tezos Baking” application was the first staking application for a hardware wallet used at scale by block producers. It allows a block producer to sign and validate blocks when asked with a private key held in cold storage while also protecting them from double signing.
-  * Kiln: Kiln is a tool for both baking and monitoring on the Tezos network. It provides a locally hosted graphical interface, binaries for tezos-client, tezos-node, tezos-baker, and tezos-endorser, and it builds a cache of chain data from the nodes to which it connects.
-**Kadena**: The Pact IDE is an integrated development environment for users to develop and deploy smart contracts using the PACT language. It also has a desktop app for writing and deploying smart contracts. In addition, we have also implemented BIP39 to recover the desktop wallet using a mnemonic phrase.
+  * Kiln: Kiln is a tool for both baking and monitoring on the Tezos network. It provides a locally hosted graphical interface, binaries for tezos-client, tezos-node, tezos-baker, and tezos-endorser, and it builds a cache of chain data from the nodes to which it connects.  
+**Kadena**: The Pact IDE is an integrated development environment for users to develop and deploy smart contracts using the PACT language. It also has a desktop app for writing and deploying smart contracts. In addition, we have also implemented BIP39 to recover the desktop wallet using a mnemonic phrase.  
+
 **MIT’s Center for Brains, Minds, and Machines**: Obsidian Systems advised graduate researchers at CBMM and set up the computing infrastructure used to conduct research on topics such as artificial intelligence, machine learning, and cognitive science.
 We have also worked on implementation projects with a variety of token issuers and blockchain-enabled businesses.
 
