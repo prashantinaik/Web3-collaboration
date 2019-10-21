@@ -5,16 +5,17 @@
 ### Summary
 The objective of this project is to produce specifications for enabling Haskell development of Substrate Smart Contracts. Through this grant, our team will research and evaluate the existing Substrate Smart Contract ecosystem and produce detailed recommendations for implementation plans to be considered for future grants. At the end of this project, we will deliver:
 
-*Technical requirements documents defining future projects. Such projects may include:
-  *A Haskell eDSL for writing smart contracts for Substrate blockchains
-  *Sample contracts written in Haskell to serve as tests, examples, and a starting points for developers.
-  *Tooling for writing Haskell smart contracts more pleasant
-  *Tooling for interacting with any Substrate smart contract
-*Scoping and estimation for each distinct development project
-*A development roadmap which ties together the various projects
+* Technical requirements documents defining future projects. Such projects may include:
+  * A Haskell eDSL for writing smart contracts for Substrate blockchains
+  * Sample contracts written in Haskell to serve as tests, examples, and a starting points for developers.
+  * Tooling for writing Haskell smart contracts more pleasant
+  * Tooling for interacting with any Substrate smart contract
+* Scoping and estimation for each distinct development project
+* A development roadmap which ties together the various projects
 
 ### Impact on the Ecosystem
-**Security**: Haskell-based smart contracts are more secure because they are written in a functional language. Enhanced security is a competitive advantage and will help attract stakeholders who are concerned about blockchain security.
+**Security**: Haskell-based smart contracts are more secure because they are written in a functional language. Enhanced security is a competitive advantage and will help attract stakeholders who are concerned about blockchain security.  
+
 **Adoption**: Smart contracts written in functional programming languages are adopted by several blockchain projects today. This grant will make Substrate blockchains more compelling to application developers and grow the functional smart contract ecosystem. Examples of other projects with functional smart contract languages are:
   *Cardano: Cardano smart contracts are written in Plutus, a strictly typed pure functional language, that is embedded in Haskell.
   *Kadena: Kadena uses Pact as a smart-contract language. The interpreter of Pact is built in Haskell. Obsidian has been collaborating with Kadena for building an Integrated Development Environment (IDE) for writing smart contracts.
