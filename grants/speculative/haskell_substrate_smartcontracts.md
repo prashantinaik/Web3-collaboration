@@ -23,10 +23,10 @@ The objective of this project is to produce specifications for enabling Haskell 
 **Talent**: This project will expose Polkadot to a pool of functional smart contract developers.
 **Ecosystem and Tooling Growth**: This project will also help identify more collaboration opportunities outside this initial scope such as an IDE for writing Haskell smart contracts.
 
-###Integration with Substrate and Polkadot
+### Integration with Substrate and Polkadot
 Smart contracts written in Haskell will be compatible with any chain written with Substrate. This project will attract Haskell developers, developers from other functional programming communities, and developers from existing functional programming blockchain communities, thus increasing the adoption of Substrate.
 
-###Obsidian's Interest in this Project
+### Obsidian's Interest in this Project
 Obsidian Systems is a software consulting firm focused on delivering high-quality software quickly. Since our founding 4 years ago, we have worked with many companies across several fields. Security, cryptography, programming language theory, and application development are core competencies of ours which have found a natural application in blockchain. As a result, we have expanded rapidly in the blockchain space and we are interested in continuing that expansion and uncovering new opportunities for collaboration.
 We understand that secure and reliable software is of the utmost importance in the blockchain space. We want to apply our knowledge-base in ways that make blockchains, no matter their complexity, more secure and reliable through the use of Haskell and crypto/security best practices. 
 
