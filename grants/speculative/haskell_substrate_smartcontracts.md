@@ -46,8 +46,8 @@ Obsidian Systems designs and develops high quality software solutions to pressin
 
 ## Legal Structure 
 Obsidian Systems LLC is a Delaware limited liability company.  
-Our legal address is P.O. Box 1206, New York, NY 10159
-Our office address is 19 W 21st St, Suite 503, New York, NY 1001
+Our legal address is P.O. Box 1206, New York, NY 10159.
+Our office address is 19 W 21st St, Suite 503, New York, NY 1001.
 
 ## Team's experience
 **Tezos**: Tezos is a blockchain with on-chain governance which is written in OCaml and supports formal verification of smart contracts. Tezos and its smart contract language Michelson are both functional programming languages which facilitate formal verification.
@@ -57,20 +57,21 @@ Our office address is 19 W 21st St, Suite 503, New York, NY 1001
 **Kadena**: The Pact IDE is an integrated development environment for users to develop and deploy smart contracts using the PACT language. It also has a desktop app for writing and deploying smart contracts. In addition, we have also implemented BIP39 to recover the desktop wallet using a mnemonic phrase.  
 
 **MIT’s Center for Brains, Minds, and Machines**: Obsidian Systems advised graduate researchers at CBMM and set up the computing infrastructure used to conduct research on topics such as artificial intelligence, machine learning, and cognitive science.
+
 We have also worked on implementation projects with a variety of token issuers and blockchain-enabled businesses.
 
 
 ## Team Code Repos
-* Kiln: https://gitlab.com/obsidian.systems/tezos-bake-monitor
-* Ledger Applications: https://github.com/obsidiansystems/ledger-app-tezos
-* Obelisk: https://github.com/obsidiansystems/obelisk/
-* Reflex Platform: https://github.com/reflex-frp/reflex-platform
+* Kiln - https://gitlab.com/obsidian.systems/tezos-bake-monitor
+* Ledger Applications - https://github.com/obsidiansystems/ledger-app-tezos
+* Obelisk - https://github.com/obsidiansystems/obelisk/
+* Reflex Platform - https://github.com/reflex-frp/reflex-platform
 
 In addition to the above mentioned code repos, we also have several code repos that are not open source and are for private clients. 
 
 ## Team LinkedIn Profiles
-* Ryan Trinkle, Partner at Obsidian Systems https://www.linkedin.com/in/ryantrinkle
-* Ali Abrar, Partner at Obsidian Systems   		https://www.linkedin.com/in/aliabrar
+* Ryan Trinkle, Partner at Obsidian Systems - https://www.linkedin.com/in/ryantrinkle
+* Ali Abrar, Partner at Obsidian Systems - https://www.linkedin.com/in/aliabrar
 
 ## Additional Information
 Due to our vast experience in blockchain related projects, we are in a position to produce high quality deliverables in a short amount of time. In particular, we have experience with Haskell smart contract eDSLs, IDEs, and related tooling on multiple protocols. Haskell allows us to produce secure and reliable software which helps us cater to the needs of an end user more effectively. We look forward to collaborating on this project and are confident that we will be able to identify more long term collaboration opportunities.
